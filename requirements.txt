@@ -1,0 +1,15 @@
+appdirs==1.4.3
+BeautifulSoup==3.2.1
+certifi==2017.4.17
+chardet==3.0.3
+click==6.7
+decorator==4.0.11
+geocoder==1.22.6
+gmplot==1.1.1
+idna==2.5
+packaging==16.8
+pyparsing==2.2.0
+ratelim==0.1.6
+requests==2.17.1
+six==1.10.0
+urllib3==1.21.1
