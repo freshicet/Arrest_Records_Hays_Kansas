@@ -8,7 +8,7 @@ A web scraping script that look at all the arrest records in [Hays Posts](https:
 ```
 pip install -r requirements.txt
 ```
-Run the HaysPDlogsofArrestCSV.py file to get Csv file of Latitude, Longitude, Time, arrested for, Age,
+Run the HaysPDlogsofArrestCSV.py file to get csv file of Latitude, Longitude, Time, arrested for, Age,
 where there are from, and Name.
 ```
 HaysPDlogsofArrestCSV.py
