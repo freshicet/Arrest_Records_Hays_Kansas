@@ -1,6 +1,6 @@
 appdirs==1.4.3
 BeautifulSoup==3.2.1
-certifi==2017.4.17
+certifi==2022.12.7
 chardet==3.0.3
 click==6.7
 decorator==4.0.11
